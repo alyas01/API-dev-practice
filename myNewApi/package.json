@@ -1,0 +1,15 @@
+{
+	"name": "myNewApi",
+	"version": "0.0.1",
+	"description": "Test API",
+	"author": "",
+	"main": "index.js",
+	"dependencies": {},
+	"devDependencies": {
+		"chai": "*",
+		"mocha": "*"
+	},
+	"scripts": {
+		"zip": "zip -r ../myNewApi.zip *"
+	}
+}
